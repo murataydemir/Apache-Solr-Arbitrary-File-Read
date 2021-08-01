@@ -1,5 +1,7 @@
 <b>Apache Solr Arbitrary File Read</b>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![Hit Counter](https://shields-io-visitor-counter.herokuapp.com/badge?page=murataydemir.Apache-Solr-Arbitrary-File-Read&style=plastic&color=critical)
+![Platform Badge](https://img.shields.io/badge/Platform-Apache%20Solr-critical?logo=apachesolr&style=plastic)
 
 Apache Solr (stands for Searching On Lucene with Replication) is a free, open-source search engine based on the Apache Lucene library. Written in Java. Apache Solr has RESTful XML/HTTP and JSON APIs and client libraries for many programming languages such as Java, Phyton, Ruby, C#, PHP, and many more being used to build search-based and big data analytics applications for websites, databases, files, etc.
 
